@@ -1,4 +1,4 @@
-""" PYGEM-OGGGM COMPATIBILITY FUNCTIONS """
+""" PYGEM-OGGM COMPATIBILITY FUNCTIONS """
 # External libraries
 import numpy as np
 import pandas as pd
